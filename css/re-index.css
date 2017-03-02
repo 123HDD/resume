@@ -1,0 +1,45 @@
+.preson-tit {
+	font-size: 14px;
+	line-height: 30px;
+}
+.preson-tit h1 {
+	font-size: 40px;
+	color: #fff;
+}
+.preson-tit b {
+	font-size: 20px;
+	color: #fff;
+	font-weight: bold;
+}
+.individual {
+	
+}
+.individual li {
+	line-height: 50px;
+	line-height: 50px;
+	font-size: 14px;
+	color: #fff;
+	overflow: hidden;
+}
+.individual li span {
+	float: left;
+	width: 100px;
+	text-align: right;
+}
+.individual li em {
+	float: left;
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
