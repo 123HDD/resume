@@ -1,7 +1,7 @@
 .me-img {
-	border-radius: 50%;
-	border: 3px solid #fff;
-	box-shadow: 0 0 15px #fff;
+	/*border-radius: 50%;*/
+	 /*border: 3px solid #fff;*/
+	box-shadow: 0 0 15px #fff; 
 }
 .individual {
 	padding-top: 40px;
