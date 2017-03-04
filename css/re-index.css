@@ -16,11 +16,14 @@
 	float: left;
 	width: 100px;
 	text-align: right;
+	color: #660000;
 }
 .individual li em {
 	float: left;
 	text-align: left;
+	
 }
+
 .contact-btn {
 	border-radius: 5px;
 	overflow: hidden;
