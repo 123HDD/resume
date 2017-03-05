@@ -20,8 +20,13 @@
 }
 .individual li em {
 	float: left;
+	text-align: left;	
+}
+.individual li a {
+	float: left;
 	text-align: left;
-	
+	color: inherit;
+	text-decoration: underline;
 }
 
 .contact-btn {
